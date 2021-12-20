@@ -105,4 +105,4 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 - [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
 
 ---
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2021 Ariful Islam Arif. Powered by Jekyll and the Minimal Theme.</center>
