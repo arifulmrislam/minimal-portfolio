@@ -5,16 +5,18 @@ logo: "/images/logo.png?raw=true"
 description:
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/chriskhanhtran/">LinkedIn</a> |
-  <a href="https://github.com/chriskhanhtran">GitHub</a>
+  <a href="https://www.linkedin.com/in/ariful-islam-arif-2987b51a3/">LinkedIn</a> |
+  <a href="https://github.com/arifulmrislam">GitHub</a>
   </p>
   
   <p align="justify">
-  I am pursing MS degree in Business Analytics at Simon Business School, University of Rochester.
+  I am pursing BS.c degree in Electrical & Electronics Engineering at Daffodil International University.
   <br><br>
-  I am currently a Machine Learning Research Intern at Skim AI Technologies with a focus on NLP and Deep Learning research.
+  I am currently an Automation and IoT Engineer at Polisea S.A with a focus on IoT, IIoT & Cloud Solutions.
   <br><br>
   </p>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-215702301-1 # Google Analytics tracking ID
+
+Automation and IOT Engineer at Polisea S.A.
