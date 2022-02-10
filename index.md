@@ -11,8 +11,7 @@
 <!-- <center><img src="images/Restaurant Dashboard-1.png"/></center> -->
 <!-- <center><img src="images/Restaurant Dashboard-5.png"/></center><center><img src="images/Restaurant Dashboard-6.png"/></center><center><img src="images/Restaurant Dashboard-7.png"/></center> -->
 
-<img src= "images/Restaurant Dashboard-5.png" width=200><img src= "images/Restaurant Dashboard-6.png" width=200><img src= "images/Restaurant Dashboard-7.png" width=200>
-
+<img src= "images/Restaurant Dashboard-5.png" width=300> <img src= "images/Restaurant Dashboard-6.png" width=300> 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
 
