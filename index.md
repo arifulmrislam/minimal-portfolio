@@ -6,7 +6,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/McDonalds-Project)
 
-<div style="text-align: justify">We have been working on a proof of concept for the last one and half years. We offered to McDonald how to minimize their energy and their other consumption cost like water, gas and so on. We will also inform them which hours are pick hours for their restaurants. Last year we installed the LoRaWAN network in their one restaurant. We use five Eastron energy meters to collect different places of energy and observe the average consumption of twenty-four hours. After that, we make a threshold if the energy consumption is more than the set limit we will get a notification by mail. For doing everything, we use the famous IoT platform Thingsboard and LoRaWAN based sensors. We are working now with their other restaurants in Romania.</div>
+<div style="text-align: justify">We have been working on a proof of concept for the last one and half years. We offered to McDonald's how to minimize their energy and their other consumption cost like water, gas and so on. We will also inform them which hours are pick hours for their restaurants. Last year we installed the LoRaWAN network in their one restaurant. We use five Eastron energy meters to collect different places of energy and observe the average consumption of twenty-four hours. After that, we make a threshold if the energy consumption is more than the set limit we will get a notification by mail. For doing everything, we use the famous IoT platform Thingsboard and LoRaWAN based sensors. We are working now with their other restaurants in Romania.</div>
 
 <center><img src="images/nlp.png"/></center>
 
