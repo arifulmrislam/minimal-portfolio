@@ -28,7 +28,7 @@
 
 <div style="text-align: justify">For predictive maintenance, I used WISE-2410 transmits sensor data to WISE-6610 (via LoRaWAN) or 3rd party LoRaWAN gateway (via LoRaWAN). WISE-6610 provides Ethernet connectivity and supports Modbus TCP, RESTful Web API for integration. The WISE-6610 allows for VPN tunnel creation with various protocols that ensure safe communication. It also provides a network server that can encrypt and convert LoRaWAN data in the device, and its redundancy-enhanced functions are specifically designed to prevent connection loss. It has an inbuilt application server. Using this application server, I build a dashboard in node-red to visualization the WISE-2410 values.  </div>
 <br>
-<center><img src="images/fb-food-trends.png"></center>
+<center><img src="images/System Architecture.png"></center>
 <br>
 
 ---
