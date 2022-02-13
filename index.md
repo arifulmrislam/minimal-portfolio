@@ -7,7 +7,6 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/McDonalds-Project)
 
 <div style="text-align: justify">We have been working on a proof of concept since last year. We offered McDonald's to minimize their energy consumption. As well, their other consumption like water, gas and so on. We installed the LoRaWAN network in their one restaurant. Initially, we used five Eastron energy meters to collect different energy field consumption and observe the average consumption of twenty-four hours. We make a threshold that If the energy consumption is more than the set limit, It will create a notification and send it by mail. By getting this notification, customer will be informed about their unnecessary consumption. In this way, They can save their total energy cost at least 15% to 20%. We use the famous IoT platform Thingsboard and LoRaWAN based sensors.This year they approved our proof of concept, and We are working now with their other restaurants in Romania.</div>
-
 <br>
 <center><img src= "images/Restaurant Dashboard-5.png"/></center> <center><img src= "images/Restaurant Dashboard-6.png"/></center>
 <br>
@@ -18,7 +17,6 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/Datalogging-with-ChirpStack-Node-RED-InfluxDB-Grafana-with-Docker)
 
 <div style="text-align: justify">I build a local solution for our customers without using cloud computing. First I installed ChirpStack network server, Node-RED, Influx DB & Grafana as Docker containers in the Dell server. I create a database in InfluxDB. Using this database, I connect Grafana web application which is the open-source analytics and monitoring solution for every database. I use a microtic gateway to forward all sensor values to the ChirpStack network server. ChirpStack allows Node-RED to collect the data from NS using a topic. After collecting those values I forward them to the InfluxDB database. Using those data I create a simple web dashboard in Grafana application to visualization the values in charts, graphs and alerts for notification of the critical situation.</div>
-
 <br>
 <center><img src="images/Node-Red, Grafana, Docker and Telegraf with Influxdb.png"/></center>
 <br>
