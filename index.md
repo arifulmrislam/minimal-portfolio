@@ -15,11 +15,13 @@
 ---
 ### Datalogging with ChirpStack, Node-RED, InfluxDB, Grafana using Docker Container
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/Datalogging-with-ChirpStack-Node-RED-InfluxDB-Grafana-with-Docker)
 
 <div style="text-align: justify">I build a local solution for our customers without using cloud computing. First I installed ChirpStack network server, Node-RED, Influx DB & Grafana as Docker containers in the Dell server. I create a database in InfluxDB. Using this database, I connect Grafana web application which is the open-source analytics and monitoring solution for every database. I use a microtic gateway to forward all sensor values to the ChirpStack network server. ChirpStack allows Node-RED to collect the data from NS using a topic. After collecting those values I forward them to the InfluxDB database. Using those data I create a simple web dashboard in Grafana application to visualization the values in charts, graphs and alerts for notification of the critical situation.</div>
 
+<br>
 <center><img src="images/Node-Red, Grafana, Docker and Telegraf with Influxdb.png"/></center>
+<br>
 
 ---
 ### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
