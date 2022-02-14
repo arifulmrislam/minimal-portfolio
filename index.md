@@ -40,7 +40,7 @@
 
 <div style="text-align: justify">ThingsBoard uses the database to store entities (devices, assets, customers, dashboards, etc) and telemetry data (attributes, timeseries sensor readings, statistics, events). In this project, I am going to deploy PostgreSQL fully managed database. PostgreSQL is a free and open-source object-relation database management system (ORDBMS). ThingsBoard customers successfully use Azure Database for PostgreSQL to minimize efforts on database setup, backups and support.</div>
 <br>
-<center><img src="images/detect-spam-nlp.png"/></center>
+<center><img src="images/standalone.png"/></center>
 <br>
 
 ---
