@@ -52,7 +52,7 @@
 
 <div style="text-align: justify">We have done a temperature measurement project for [Cummins Generator Technologies Romania SA](https://www.google.com/search?rlz=1C1BNSD_enRO948RO948&sxsrf=APq-WBuArQ7towlsjSHIO_DEPIBuPHLAfA%3A1644957939301&q=Cummins%20generator%20technologies%20Romania%20SA&ved=2ahUKEwi4zZHtyYL2AhUQQfEDHRltBdIQmoICKAB6BAgEEAo&biw=1920&bih=947&dpr=1). During this project, We need to read the temperature range of the electric rotor between 100 °C and 200 °C. We use two sensors one is the position/distance sensor, and another one is the temperature sensor. The temperature will check each rotor when it is passing through the rays of the position/distance sensor. The green lamp illuminates when the temperature level is in the set range. Meanwhile, PLC logs data as well HMI shows the values.</div>
 
-<img src="images/Picture1.png"> <img src="images/Picture2.jpg">
+<center><img src="images/Picture1.png"> <img src="images/Picture2.jpg"></center>
 
 ---
 ### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
