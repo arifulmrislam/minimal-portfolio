@@ -51,8 +51,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/TEMPERATURE-MEASUREMENT-OF-SHEET-PACKAGES-AT-AXLE-ASSEMBLY)
 
 <div style="text-align: justify">We have done a temperature measurement project for Cummins Generator Technologies. During this project, We need to read the temperature range of the electric rotor between 100 °C and 200 °C. We use two sensors one is the position/distance sensor, and another one is the temperature sensor. The temperature will check each rotor when it is passing through the rays of the position/distance sensor. The green lamp illuminates when the temperature level is in the set range. Meanwhile, PLC logs data as well HMI shows the values.</div>
-<br>
-<br>
+
 <img src="images/Picture1.png"> <img src="images/Picture2.jpg">
 <img src= "images/Picture2.jpg" width=200>        <img src= "images/Picture1.png" width=400>
 
