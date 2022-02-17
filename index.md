@@ -55,7 +55,7 @@
 <center><img src="images/Picture1.png"> <img src="images/Picture2.jpg"></center>
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+<!-- ### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
@@ -99,5 +99,5 @@
 - [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
 - [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
 
----
+--- -->
 <center>© 2021 Ariful Islam Arif. Powered by Jekyll and the Minimal Theme.</center>
