@@ -94,7 +94,8 @@
 <br>
 
 - [How to install Node-RED on Ubuntu 20.04 with username and password authentication??](https://www.youtube.com/watch?v=Y2ttfN9mOyQ&t=10s)
-- [Enable SSH on Ubuntu 20.04 step-by-step instruction and connect by Putty](https://www.youtube.com/watch?v=_Rt7UzRbeV8)
+- [Enable SSH on Ubuntu 20.04 step-by-step instruction and connect by Putty.](https://www.youtube.com/watch?v=_Rt7UzRbeV8)
+
 ---
 
 <center>© 2022 Ariful Islam Arif. Powered by Jekyll and the Minimal Theme.</center>
