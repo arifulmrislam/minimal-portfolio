@@ -6,7 +6,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/McDonalds-Project)
 
-<div style="text-align: justify">We have been working on a proof of concept since last year. We offered McDonald's to minimize their energy consumption. As well, their other consumption like water, gas and so on. We installed the LoRaWAN network in their one restaurant. Initially, we used five Eastron energy meters to collect different energy field consumption and observe the average consumption of twenty-four hours. We make a threshold that If the energy consumption is more than the set limit, It will create a notification and send it by mail. By getting this notification, customer will be informed about their unnecessary consumption. In this way, They can save their total energy cost at least 15% to 20%. We use the famous IoT platform Thingsboard and LoRaWAN based sensors.This year they approved our proof of concept, and We are working now with their other restaurants in Romania.</div>
+<div style="text-align: justify">We have been working on a proof of concept since last year. McDonald's was offered a way to reduce their energy consumption. They also consume other things like water, gas, etc. We installed the LoRaWAN network in one of their restaurants. We initially used five Eastron energy meters to collect different energy-related data and observe the average consumption over twenty-four hours. We set a threshold that if the energy consumption is more than the set limit, it will create a notification and send it by mail. By getting this notification, customers will be informed about their unnecessary consumption. They can save 15% to 20% on their total energy costs this way. We use the famous IoT platform Thingsboard and LoRaWAN based sensors. This year they approved our proof of concept, and we are now working with their other restaurants in Romania.</div>
 <br>
 <center><img src= "images/Restaurant Dashboard-5.png"/></center> <center><img src= "images/Restaurant Dashboard-6.png"/></center>
 <br>
@@ -16,7 +16,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/Datalogging-with-ChirpStack-Node-RED-InfluxDB-Grafana-with-Docker)
 
-<div style="text-align: justify">I build a local solution for our customers without using cloud computing. First I installed ChirpStack network server, Node-RED, Influx DB & Grafana as Docker containers in the Dell server. I create a database in InfluxDB. Using this database, I connect Grafana web application which is the open-source analytics and monitoring solution for every database. I use a microtic gateway to forward all sensor values to the ChirpStack network server. ChirpStack allows Node-RED to collect the data from NS using a topic. After collecting those values I forward them to the InfluxDB database. Using those data I create a simple web dashboard in Grafana application to visualization the values in charts, graphs and alerts for notification of the critical situation.</div>
+<div style="text-align: justify">I build a local solution for our customers without relying on cloud computing. First, I installed the ChirpStack network server, Node-RED, Influx DB & Grafana as Docker containers on the Dell server. I create a database in InfluxDB. Using this database, I connect the Grafana web application which is the open-source analytics and monitoring solution for every database. I use a microtik gateway to forward all sensor values to the ChirpStack network server. Node-RED collects data from NS through a topic provided by ChirpStack. After collecting those values I forward them to the InfluxDB database. By using these data, I built a simple web dashboard in Grafana to visualize the values in graphs, charts, and alerts for notification of critical situations.</div>
 <br>
 <center><img src="images/Node-Red, Grafana, Docker and Telegraf with Influxdb.png"/></center>
 <br>
@@ -26,7 +26,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/Advantech-LoRaWAN-WISE-6610-gateway-and-WISE-2410-wireless-condition-monitoring-sensor-solution)
 
-<div style="text-align: justify">For predictive maintenance, I used WISE-2410 transmits sensor data to WISE-6610 (via LoRaWAN) or 3rd party LoRaWAN gateway (via LoRaWAN). WISE-6610 provides Ethernet connectivity and supports Modbus TCP, RESTful Web API for integration. The WISE-6610 allows for VPN tunnel creation with various protocols that ensure safe communication. It also provides a network server that can encrypt and convert LoRaWAN data in the device, and its redundancy-enhanced functions are specifically designed to prevent connection loss. It has an inbuilt application server. Using this application server, I build a dashboard in node-red to visualization the WISE-2410 values.  </div>
+<div style="text-align: justify">For predictive maintenance, I used WISE-2410 to transmit sensor data to WISE-6610 (via LoRaWAN) or a 3rd party LoRaWAN gateway (via LoRaWAN). WISE-6610 provides Ethernet connectivity and supports Modbus TCP, RESTful Web API for integration. The WISE-6610 allows for VPN tunnel creation with various protocols that ensure safe communication. It also provides a network server that can encrypt and convert LoRaWAN data in the device, and its redundancy-enhanced functions are specifically designed to prevent connection loss. It has an inbuilt application server. Using this application server, I build a dashboard in node-red to visualization the WISE-2410 values.</div>
 <br>
 <center><img src="images/System Architecture.png"></center>
 
@@ -40,7 +40,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/Deploy-PostgreSQL-fully-manageable-database-for-Thingboard)
 
-<div style="text-align: justify">ThingsBoard uses the database to store entities (devices, assets, customers, dashboards, etc) and telemetry data (attributes, timeseries sensor readings, statistics, events). In this project, I am going to deploy PostgreSQL fully managed database. PostgreSQL is a free and open-source object-relation database management system (ORDBMS). ThingsBoard customers successfully use Azure Database for PostgreSQL to minimize efforts on database setup, backups and support.</div>
+<div style="text-align: justify">ThingsBoard uses the database to store entities (devices, assets, customers, dashboards, etc) and telemetry data (attributes, timeseries sensor readings, statistics, events). In this project, I am preparing to deploy a PostgreSQL fully managed database. PostgreSQL is a free and open-source object-relation database management system (ORDBMS). ThingsBoard customers successfully use Azure Database for PostgreSQL to minimize efforts on database setup, backups and support.</div>
 <br>
 <center><img src="images/standalone.png"/></center>
 <br>
@@ -50,7 +50,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/TEMPERATURE-MEASUREMENT-OF-SHEET-PACKAGES-AT-AXLE-ASSEMBLY)
 
-<div style="text-align: justify">We have done a temperature measurement project for Cummins Generator Technologies Romania SA. During this project, We need to read the temperature range of the electric rotor between 100 °C and 200 °C. We use two sensors one is the position/distance sensor, and another one is the temperature sensor. The temperature will check each rotor when it is passing through the rays of the position/distance sensor. The green lamp illuminates when the temperature level is in the set range. Meanwhile, PLC logs data as well HMI shows the values.</div>
+<div style="text-align: justify">We have done a temperature measurement project for Cummins Generator Technologies Romania SA. During this project, we need to read the temperature range of the electric rotor between 100 °C and 200 °C. We use two sensors one is the position/distance sensor, and another one is the temperature sensor. When each rotor passes through the rays of the position/distance sensor, the temperature is checked. The green lamp illuminates when the temperature level is in the set range. In addition, the PLC logs data while the HMI shows the values.</div>
 
 <center><img src="images/Picture1.png"> <img src="images/Picture2.jpg"></center>
 
@@ -94,10 +94,10 @@
 <div style="text-align: justify">Beside Engineering, I have a great passion for photography and videography. Below is a list of the videos I have created for sharing my knowledge.</div>
 <br>
 
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
+- [How to install Node-RED on Ubuntu 20.04 with username and password authentication??)](https://www.youtube.com/watch?v=Y2ttfN9mOyQ&t=10s)
+- [Enable SSH on Ubuntu 20.04 step-by-step instruction and connect by Putty](https://www.youtube.com/watch?v=_Rt7UzRbeV8)
+<!-- - [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
+- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU) -->
 
 
-<center>© 2021 Ariful Islam Arif. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2022 Ariful Islam Arif. Powered by Jekyll and the Minimal Theme.</center>
