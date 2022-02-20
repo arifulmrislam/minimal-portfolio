@@ -85,13 +85,13 @@
 <br>
 <center><img src="images/bac2018.JPG"/></center>
 <br>
-
+--- -->
 ---
 ## Filmed by me
 
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
+[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/channel/UCED68cm6nHaAlAk0h9I3yAQ)
 
-<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
+<div style="text-align: justify">Beside Engineering, I have a great passion for photography and videography. Below is a list of the videos I have created for sharing my knowledge.</div>
 <br>
 
 - [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
@@ -99,5 +99,5 @@
 - [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
 - [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
 
---- -->
+
 <center>© 2021 Ariful Islam Arif. Powered by Jekyll and the Minimal Theme.</center>
