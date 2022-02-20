@@ -93,7 +93,7 @@
 <div style="text-align: justify">Beside Engineering, I have a great passion for photography and videography. Below is a list of the videos I have created for sharing my knowledge.</div>
 <br>
 
-- [How to install Node-RED on Ubuntu 20.04 with username and password authentication??)](https://www.youtube.com/watch?v=Y2ttfN9mOyQ&t=10s)
+- [How to install Node-RED on Ubuntu 20.04 with username and password authentication??](https://www.youtube.com/watch?v=Y2ttfN9mOyQ&t=10s)
 - [Enable SSH on Ubuntu 20.04 step-by-step instruction and connect by Putty](https://www.youtube.com/watch?v=_Rt7UzRbeV8)
 ---
 
