@@ -8,7 +8,7 @@
 
 <div style="text-align: justify">We have been working on a proof of concept since last year. McDonald's was offered a way to reduce their energy consumption. They also consume other things like water, gas, etc. We installed the LoRaWAN network in one of their restaurants. We initially used five Eastron energy meters to collect different energy-related data and observe the average consumption over twenty-four hours. We set a threshold that if the energy consumption is more than the set limit, it will create a notification and send it by mail. By getting this notification, customers will be informed about their unnecessary consumption. They can save 15% to 20% on their total energy costs this way. We use the famous IoT platform Thingsboard and LoRaWAN based sensors. This year they approved our proof of concept, and we are now working with their other restaurants in Romania.</div>
 <br>
-<center><img src= "images/Restaurant Dashboard-5.png"/></center> <center><img src= "images/Restaurant Dashboard-6.png"/></center>
+<center><img src= "images/Mcdonalds dashboard.png"/></center>
 <br>
 
 ---
