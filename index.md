@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## Monitoring, Controlling and Cost reducing: Energy, Water and Gas consumption
+## Monitoring, Controlling and Cost Management of Energy, Water and Gas consumption
 
 ### IoT Solution by LoRaWAN for [***McDonald’s restaurants***](https://www.mcdonalds.ro/restaurante)
 
