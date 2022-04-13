@@ -55,6 +55,16 @@
 <center><img src="images/Picture1.png"> <img src="images/Picture2.jpg"></center>
 
 ---
+### CAR RACING GAME BASED ON SCRATCH PROGRAMMING
+
+[![View on Scratch](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://scratch.mit.edu/projects/673284938)
+
+<!-- <div style="text-align: justify">We have done a temperature measurement project for Cummins Generator Technologies Romania SA. During this project, we need to read the temperature range of the electric rotor between 100 °C and 200 °C. We use two sensors one is the position/distance sensor, and another one is the temperature sensor. When each rotor passes through the rays of the position/distance sensor, the temperature is checked. The green lamp illuminates when the temperature level is in the set range. In addition, the PLC logs data while the HMI shows the values.</div> -->
+
+<center><img src="images/Car racing game.png">
+
+---
+
 <!-- ### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
