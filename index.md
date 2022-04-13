@@ -51,17 +51,20 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/TEMPERATURE-MEASUREMENT-OF-SHEET-PACKAGES-AT-AXLE-ASSEMBLY)
 
 <div style="text-align: justify">We have done a temperature measurement project for Cummins Generator Technologies Romania SA. During this project, we need to read the temperature range of the electric rotor between 100 °C and 200 °C. We use two sensors one is the position/distance sensor, and another one is the temperature sensor. When each rotor passes through the rays of the position/distance sensor, the temperature is checked. The green lamp illuminates when the temperature level is in the set range. In addition, the PLC logs data while the HMI shows the values.</div>
-
+<br>
 <center><img src="images/Picture1.png"> <img src="images/Picture2.jpg"></center>
+<br>
 
 ---
 ### CAR RACING GAME BASED ON SCRATCH PROGRAMMING
 
 [![View on Scratch](https://img.shields.io/badge/Scratch-View_on_Scratch-orange?logo=Scratch)](https://scratch.mit.edu/projects/673284938)
-
+<br>
 <center><img src="images/Car racing game.png">
-
+<br>
+  
 ---
+  
 ## Filmed by me
 
 [![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/channel/UCED68cm6nHaAlAk0h9I3yAQ)
