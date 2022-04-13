@@ -57,7 +57,7 @@
 ---
 ### CAR RACING GAME BASED ON SCRATCH PROGRAMMING
 
-[![View on Scratch](https://img.shields.io/badge/Scratch-View_on_Scratch-blue?logo=Scratch)](https://scratch.mit.edu/projects/673284938)
+[![View on Scratch](https://img.shields.io/badge/Scratch-View_on_Scratch-yellow?logo=Scratch)](https://scratch.mit.edu/projects/673284938)
 
 <!-- <div style="text-align: justify">We have done a temperature measurement project for Cummins Generator Technologies Romania SA. During this project, we need to read the temperature range of the electric rotor between 100 °C and 200 °C. We use two sensors one is the position/distance sensor, and another one is the temperature sensor. When each rotor passes through the rays of the position/distance sensor, the temperature is checked. The green lamp illuminates when the temperature level is in the set range. In addition, the PLC logs data while the HMI shows the values.</div> -->
 
