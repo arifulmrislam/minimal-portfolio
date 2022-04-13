@@ -60,7 +60,7 @@
 
 [![View on Scratch](https://img.shields.io/badge/Scratch-View_on_Scratch-orange?logo=Scratch)](https://scratch.mit.edu/projects/673284938)
 <br>
-<center><img src="images/Car racing game.png">
+<center><img src="images/Car racing game.png"></center>
 <br>
   
 --- 
@@ -74,5 +74,5 @@
 - [How to install Node-RED on Ubuntu 20.04 with username and password authentication??](https://www.youtube.com/watch?v=Y2ttfN9mOyQ&t=10s)
 - [Enable SSH on Ubuntu 20.04 step-by-step instruction and connect by Putty.](https://www.youtube.com/watch?v=_Rt7UzRbeV8)
 
-<!-- ---
-<center>© 2022 Ariful Islam Arif. Powered by Jekyll and the Minimal Theme.</center> -->
+---
+<center>© 2022 Ariful Islam Arif. Powered by Jekyll and the Minimal Theme.</center>
