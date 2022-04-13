@@ -63,8 +63,7 @@
 <center><img src="images/Car racing game.png">
 <br>
   
----
-  
+--- 
 ## Filmed by me
 
 [![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/channel/UCED68cm6nHaAlAk0h9I3yAQ)
@@ -76,5 +75,4 @@
 - [Enable SSH on Ubuntu 20.04 step-by-step instruction and connect by Putty.](https://www.youtube.com/watch?v=_Rt7UzRbeV8)
 
 ---
-
 <center>© 2022 Ariful Islam Arif. Powered by Jekyll and the Minimal Theme.</center>
