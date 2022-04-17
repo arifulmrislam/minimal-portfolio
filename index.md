@@ -59,6 +59,8 @@
 ### CAR RACING GAME BASED ON SCRATCH PROGRAMMING
 
 [![View on Scratch](https://img.shields.io/badge/Scratch-View_on_Scratch-orange?logo=Scratch)](https://scratch.mit.edu/projects/673284938)
+
+<div style="text-align: justify">In this project, I customize the backdrop using the stage tool from scratch programming setting. I have included three sprites to make the game more realistic. Users can select the up and down arrow keys to increase or decrease the speed of the vehicle. They can use the right and left arrow keys to change the direction of the car.</div>
 <br>
 <center><img src="images/Car racing game.png"></center>
 <br>
