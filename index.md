@@ -26,7 +26,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/Advantech-LoRaWAN-WISE-6610-gateway-and-WISE-2410-wireless-condition-monitoring-sensor-solution)
 
-<div style="text-align: justify">For predictive maintenance, I used WISE-2410 to transmit sensor data to WISE-6610 (via LoRaWAN) or a 3rd party LoRaWAN gateway (via LoRaWAN). WISE-6610 provides Ethernet connectivity and supports Modbus TCP, RESTful Web API for integration. The WISE-6610 allows for VPN tunnel creation with various protocols that ensure safe communication. It also provides a network server that can encrypt and convert LoRaWAN data in the device, and its redundancy-enhanced functions are specifically designed to prevent connection loss. It has an inbuilt application server. Using this application server, I built a dashboard in Node-RED to visualize the WISE-2410 values.</div>
+<div style="text-align: justify">To perform predictive maintenance, I used WISE-2410 to transmit sensor data to WISE-6610 (via LoRaWAN) or a 3rd party LoRaWAN gateway (via LoRaWAN). In addition to Ethernet connectivity, the WISE-6610 supports Modbus TCP and RESTful Web APIs for integration. With the WISE-6610, VPN tunnels can be created using a variety of protocols that ensure safe communication. A network server encrypts and converts LoRaWAN data in the device, while its redundancy-enhanced functions prevent loss of connections. An application server is built into it. With the help of this application server, I built a dashboard in Node-RED to visualize the WISE-2410 values.</div>
 <br>
 <center><img src="images/System Architecture.png"></center>
 
