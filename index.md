@@ -54,16 +54,6 @@
 <br>
 <center><img src="images/Picture1.png"> <img src="images/Picture2.jpg"></center>
 <br>
-
----
-### CAR RACING GAME BASED ON SCRATCH PROGRAMMING
-
-[![View on Scratch](https://img.shields.io/badge/Scratch-View_on_Scratch-orange?logo=Scratch)](https://scratch.mit.edu/projects/673284938)
-
-<div style="text-align: justify">In this project, I customize the backdrop using the stage tool from scratch programming settings. I have included three sprites to make the game more realistic. Users can select the up and down arrow key's to increase or decrease the speed of the car. They can use the right and left arrow key's to change the direction of the car.</div>
-<br>
-<center><img src="images/Car racing game.png"></center>
-<br>
   
 --- 
 ## Filmed by me
@@ -77,4 +67,4 @@
 - [Enable SSH on Ubuntu 20.04 step-by-step instruction and connect by Putty.](https://www.youtube.com/watch?v=_Rt7UzRbeV8)
 
 ---
-<center>© 2022 Ariful Islam Arif. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2025 Ariful Islam Arif.</center>
