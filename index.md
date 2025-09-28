@@ -22,7 +22,7 @@ A full-stack IoT solution bridging hardware and cloud to monitor environmental a
 Below is the system architecture that illustrates data flow from device to dashboard:
 </div>
 <br>
-<center><img src="https://raw.githubusercontent.com/arifulmrislam/Project-of-Textile-Medicale/main/IMG/project-of-Textile-Medicale.png"/></center>
+<center><img src="images/Node-Red, Grafana, Docker and Telegraf with Influxdb.png"/></center>
 <br>
 
 
