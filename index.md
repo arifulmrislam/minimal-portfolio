@@ -17,13 +17,11 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/Project-of-Textile-Medicale/tree/main)
 
 <div style="text-align: justify">
-An IoT monitoring system that connects real-world sensors to the cloud.<br>
+An IoT monitoring system that connects real-world sensors to the cloud.<br><br>
 
-- Devices & sensors collect data such as temperature and energy usage.<br>
-
-- Node-RED processes the data and sends it through a MikroTik gateway.<br>
-
-- ThingsBoard Edge & Cloud handle secure storage, synchronization, and dashboards.<br>
+• Devices & sensors collect data such as temperature and energy usage.<br>
+• Node-RED processes the data and sends it through a MikroTik gateway.<br>
+• ThingsBoard Edge & Cloud handle secure storage, synchronization, and dashboards.<br>
 
 The result: a reliable edge-to-cloud platform for visualizing and monitoring data in real time.
 </div>
