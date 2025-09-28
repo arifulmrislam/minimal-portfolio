@@ -12,15 +12,18 @@
 <br>
 
 ---
-### Datalogging with ChirpStack, Node-RED, InfluxDB, Grafana using Docker Container
+### Textile Medicale Project
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/Datalogging-with-ChirpStack-Node-RED-InfluxDB-Grafana-with-Docker)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/Project-of-Textile-Medicale/tree/main)
 
-<div style="text-align: justify">Rather than relying on cloud computing, I build a local solution for our customers. My first step was to install ChirpStack network server, Node-RED, Influx DB & Grafana as Docker containers on the Dell server. InfluxDB is used to create a database. I connect the Grafana web application to this database, which is an open-source analytics and monitoring solution. The ChirpStack network server receives all sensor values through a Microtik gateway. Through a topic provided by ChirpStack, Node-RED collects data from NS. I forward those values to the InfluxDB database after collecting them. I built a simple web dashboard in Grafana to visualize the values in graphs, charts, and alerts for critical situations using these data.</div>
+<div style="text-align: justify">
+A full-stack IoT solution bridging hardware and cloud to monitor environmental and electrical parameters in real time. At the edge, Node-RED retrieves telemetry (via Modbus RTU) from sensors and energy meters. That data flows through a MikroTik gateway into a ThingsBoard Edge instance—securely synchronized with a ThingsBoard Cloud backend. In the cloud dashboard, I build visualizations, alerts, and device groups for easy monitoring and control.
+
+Below is the system architecture that illustrates data flow from device to dashboard:
+</div>
 <br>
-<center><img src="images/Node-Red, Grafana, Docker and Telegraf with Influxdb.png"/></center>
+<center><img src="images/project-of-Textile-Medicale.png"/></center>
 <br>
-
 
 ---
 ### Datalogging with ChirpStack, Node-RED, InfluxDB, Grafana using Docker Container
