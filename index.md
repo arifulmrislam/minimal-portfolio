@@ -24,7 +24,7 @@
 
 - ThingsBoard Edge & Cloud handle secure storage, synchronization, and dashboards.
 <br>
-Below is the system architecture that illustrates data flow from device to dashboard
+Below is the system architecture that illustrates data flow from device to dashboard:
 </div>
 <br>
 <center><img src="https://github.com/arifulmrislam/Project-of-Textile-Medicale/blob/main/IMG/project-of-Textile-Medicale.png"/></center>
