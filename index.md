@@ -12,13 +12,13 @@
 <br>
 
 ---
-### Textile Medicale Project
+### Datalogging with ChirpStack, Node-RED, InfluxDB, Grafana using Docker Container
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/Datalogging-with-ChirpStack-Node-RED-InfluxDB-Grafana-with-Docker)
 
 <div style="text-align: justify">Rather than relying on cloud computing, I build a local solution for our customers. My first step was to install ChirpStack network server, Node-RED, Influx DB & Grafana as Docker containers on the Dell server. InfluxDB is used to create a database. I connect the Grafana web application to this database, which is an open-source analytics and monitoring solution. The ChirpStack network server receives all sensor values through a Microtik gateway. Through a topic provided by ChirpStack, Node-RED collects data from NS. I forward those values to the InfluxDB database after collecting them. I built a simple web dashboard in Grafana to visualize the values in graphs, charts, and alerts for critical situations using these data.</div>
 <br>
-<center><img src="images/project of Textile Medicale.png"/></center>
+<center><img src="images/Node-Red, Grafana, Docker and Telegraf with Influxdb.png"/></center>
 <br>
 
 
