@@ -18,7 +18,9 @@
 
 <div style="text-align: justify">An IoT monitoring system that connects real-world sensors to the cloud.
 - Devices & sensors collect data such as temperature and energy usage.
+  
 - Node-RED processes the data and sends it through a MikroTik gateway.
+  
 - ThingsBoard Edge & Cloud handle secure storage, synchronization, and dashboards.
   
 - Below is the system architecture that illustrates data flow from device to dashboard:
