@@ -16,13 +16,15 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifulmrislam/Project-of-Textile-Medicale/tree/main)
 
-<div style="text-align: justify">A full-stack IoT solution bridging hardware and cloud to monitor environmental and electrical parameters in real time. At the edge, Node-RED retrieves telemetry (via Modbus RTU) from sensors and energy meters. That data flows through a MikroTik gateway into a ThingsBoard Edge instance—securely synchronized with a ThingsBoard Cloud backend. In the cloud dashboard, I build visualizations, alerts, and device groups for easy monitoring and control.
+<div style="text-align: justify">
+A full-stack IoT solution bridging hardware and cloud to monitor environmental and electrical parameters in real time. At the edge, Node-RED retrieves telemetry (via Modbus RTU) from sensors and energy meters. That data flows through a MikroTik gateway into a ThingsBoard Edge instance—securely synchronized with a ThingsBoard Cloud backend. In the cloud dashboard, I build visualizations, alerts, and device groups for easy monitoring and control.
 
 Below is the system architecture that illustrates data flow from device to dashboard:
 </div>
 <br>
-<center><img src="https://github.com/arifulmrislam/Project-of-Textile-Medicale/blob/main/IMG/project-of-Textile-Medicale.png"/></center>
+<center><img src="https://raw.githubusercontent.com/arifulmrislam/Project-of-Textile-Medicale/main/IMG/project-of-Textile-Medicale.png"/></center>
 <br>
+
 
 ---
 ### Datalogging with ChirpStack, Node-RED, InfluxDB, Grafana using Docker Container
